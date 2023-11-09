@@ -1,3 +1,5 @@
+#before executing run this command in terminal
+#pip install requests
 import requests
 
 def get_exchange_rate(base_currency, target_currency):
